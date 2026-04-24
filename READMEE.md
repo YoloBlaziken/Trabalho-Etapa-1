@@ -30,7 +30,7 @@ WaveType.cs:
 Carrega os diferentes tipos de sons no AudioSource.cs
 
 AutoPongGame.cs 
--Fazer uma resolução
+-Fazer uma resolução máxima de movimento
 -Fazer as peças
 -Fazer físicas para a bola
 -Texturas
