@@ -21,7 +21,7 @@ Audiosource.cs:
 Serve para o áudio do jogo, calcular se o som é agudo ou grave e interromper sons se outro começar
 
 Game1.cs:
-Serve para carregar a janela do jogo e registrar os commandos com os inputs diferentes
+Serve para carregar a janela do jogo e registrar os comandos com os inputs diferentes
 
 InputState.cs:
 Ler o estado do input, seja tecla pressionada, rato a ser movido, ou butão segurado, para facilitar tradução para diferentes inputs e resoluções
@@ -36,7 +36,7 @@ AutoPongGame.cs
 -Texturas
 -Aleatoriedade
 -Sistema de pontos
--Efeitos sonors
+-Efeitos sonoros
 -Limites do jogo
 -Visualizar rato
 -Loop do jogo
